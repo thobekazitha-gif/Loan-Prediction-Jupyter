@@ -4,7 +4,7 @@
 
 # Bias Audit Report – Loan Prediction Classification ML
 
-## Group Project – Tech Career Accelerator (CAPACITI)
+## Group Project (Logic League)
 
 **Program:** Tech Career Accelerator (CAPACITI)  
 **Project Type:** Bias Analysis and Mitigation in Machine Learning  
