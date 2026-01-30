@@ -1,6 +1,6 @@
-<div>
+
 <img width="1024" height="539" alt="image" src="https://github.com/user-attachments/assets/e0b832bf-17cb-49c9-9a55-4dd587c833e0" />
-</div>
+
 
 # Bias Audit Report – Loan Prediction Classification ML
 
